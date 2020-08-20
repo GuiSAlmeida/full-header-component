@@ -1,5 +1,5 @@
 {
-  "name": "react-full-header",
+  "name": "full-header-component",
   "version": "1.0.0",
   "description": "A full header component createdd with react.",
   "main": "dist/Main.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/guiSAlmeida/react-full-header.git"
+    "url": "git+ssh://git@github.com/guiSAlmeida/full-header-component.git"
   },
   "keywords": [
     "react",
@@ -38,9 +38,9 @@
   "author": "Guilherme Almeida (http://guisalmeida.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/guiSAlmeida/react-full-header/issues"
+    "url": "https://github.com/guiSAlmeida/full-header-component/issues"
   },
-  "homepage": "https://github.com/guiSAlmeida/react-full-header#README",
+  "homepage": "https://github.com/guiSAlmeida/full-header-component#README",
   "devDependencies": {
     "@personare/react-storybook-decorator-github-corner": "^0.1.4",
     "@storybook/react": "^3.1.5",

@@ -1,4 +1,4 @@
-# full header component
+# Full Header Component
 <!-- [![Build Status](https://travis-ci.org/willianjusten/react-full-header.svg?branch=master)](https://travis-ci.org/willianjusten/react-full-header)
 ![Badge size](https://badge-size.herokuapp.com/willianjusten/react-full-header/master/dist/Main.min.js.svg)
 ![Badge gzip size](https://badge-size.herokuapp.com/willianjusten/react-full-header/master/dist/Main.min.js.svg?compression=gzip)
