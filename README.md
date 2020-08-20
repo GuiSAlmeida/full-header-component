@@ -13,13 +13,13 @@
 ## Installation
 
 ```sh
-$ npm install --save-dev full-header-component
+$ npm install --save-dev full-header-comp
 ```
 
 ## Basic Usage
 
 ```jsx
-import FullHeader from 'full-header-component';
+import FullHeader from 'full-header-comp';
 
 ...
 render() {

@@ -1,5 +1,5 @@
 {
-  "name": "full-header-component",
+  "name": "full-header-comp",
   "version": "1.0.0",
   "description": "A full header component createdd with react.",
   "main": "dist/Main.js",
